@@ -4,3 +4,6 @@
 - Deque (Array and Linked List)
 
 Other classes are included to import from when using the classes.
+These "import classes" include:
+Deque_Generator.py
+Linked_Lists.py
